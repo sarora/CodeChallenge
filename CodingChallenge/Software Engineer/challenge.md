@@ -1,6 +1,6 @@
 # Software Engineering Coding Challenges
 
-Below are some coding challenges that will give us some insight into your coding and problem solving abilities. Feel free to write this in whatever language you'd like.
+Below are some coding challenges that will give us some insight into your coding and problem solving abilities. Feel free to write this in whatever language you'd like. We use python at Canvass.
 
 There isn't a hard deadline for this exercise; take as long as you need to complete it. However, in terms of total time spent actively working on the challenge, we ask that you not spend more than a few hours, as we value your time and are happy to leave things open to discussion in the onsite interview.
 
