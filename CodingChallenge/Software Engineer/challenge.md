@@ -10,7 +10,8 @@ There isn't a hard deadline for this exercise; take as long as you need to compl
 Please provide README.md file with,
 
 1. Instructions on how to build/run your application.
-2. A paragraph or two about what you are particularly proud of in your implementation, any significant design decisions and why.
+2. A paragraph or two about what you are particularly proud of in your implementation, 
+3. Any significant design decisions and why?
 
 
 
