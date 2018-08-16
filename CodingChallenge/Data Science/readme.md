@@ -45,7 +45,7 @@ Link for this notebook using Keras NN can be found [here](https://github.com/sar
 
 5.  Performed hyperparameter optimization using `RandomizeSearchCV`.`
 
-6. Perform feature selection using `Lasso` to improve performnace.
+6. Perform feature selection using `Lasso` to improve performance.
 
 7. Used Neural Networks to "improve" the performance of Random Forest Model.
 
