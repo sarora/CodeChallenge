@@ -10,7 +10,7 @@ Link for this task can be found and followed here: [here](https://github.com/sar
 
 2. No multiple failures for turbines.
 
-3. Handled missing data through multiple imputation (MICE). categorical data using `pd.getdummies()`
+3. Handled missing data through multiple imputation (MICE). Categorical data encoded using `pd.getdummies()`
 
 4. No right censorship in the data. Every machine fails.
 
